@@ -1,15 +1,17 @@
 <div align="center">
  
  
-<img width="100%" hight="0" src="" alt="" />
+<img width="100%" src="" alt="cover" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate MERK Stack Developer from BD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin90&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin90" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin90&" alt="al-amin90" /></p>
+<br>
 
-<p align="center"> <a href="https://github.com/al-amin90/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-amin90&row=1&column=6&theme=onedark" alt="username=al-amin90" /></a> </p>
+<p align="center"> <a href="https://github.com/al-amin90/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-amin90&row=1&column=6&theme=onedark" alt="al-amin90" /></a> </p>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img style="height: 200px; width: auto;" align="right" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
