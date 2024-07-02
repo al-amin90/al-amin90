@@ -1,14 +1,14 @@
 <div align="center">
  
  
-<img width="100%" src="https://i.ibb.co/94YqBxx/coder.png" alt="cover" />
+<img width="100%" src="https://i.ibb.co/zHxD0pq/banner-github.png" alt="cover" />
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate MERK Stack Developer from BD</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin90&" alt="al-amin90" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin90&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFDA3E&sideLabels=00F0FF&currStreakNum=FFDA3E&ring=FFDA3E&currStreakLabel=FFDA3E&sideNums=00F0FF" alt="al-amin90" /></p>
 <br>
 
 <p align="center"> <a href="https://github.com/al-amin90/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-amin90&row=1&column=6&theme=onedark" alt="al-amin90" /></a> </p>
