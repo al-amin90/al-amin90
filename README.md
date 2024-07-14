@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate MERK Stack Developer from BD</h3>
+<h3 align="center">A passionate MERN Stack Developer from BD</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin90&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFDA3E&sideLabels=00F0FF&currStreakNum=FFDA3E&ring=FFDA3E&currStreakLabel=FFDA3E&sideNums=00F0FF" alt="al-amin90" /></p>
 <br>
