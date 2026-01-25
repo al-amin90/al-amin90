@@ -20,7 +20,7 @@
 
 - 💬 Talk with me about **React, Node, TypeScript, Next.js, Freelancing Opportunities etc.**
 
-- 📫 How to reach me **alaminparvaz100@gmail.com**
+- 📫 How to reach me **ijesun30@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QkQAGEGn6EbfrmEjroNGNbJA1G2puDeM/view?usp=drive_link](https://drive.google.com/file/d/1QkQAGEGn6EbfrmEjroNGNbJA1G2puDeM/view?usp=drive_link)
 
