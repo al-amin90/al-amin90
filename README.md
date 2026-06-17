@@ -4,52 +4,131 @@
 <img width="100%" src="https://i.ibb.co/zHxD0pq/banner-github.png" alt="cover" />
 </div>
 
+<!-- ════════════════════ ABOUT ════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate MERN Stack Developer from BD</h3>
+## &nbsp;`01` &nbsp;Who I Am
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-amin90&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FFDA3E&sideLabels=00F0FF&currStreakNum=FFDA3E&ring=FFDA3E&currStreakLabel=FFDA3E&sideNums=00F0FF" alt="al-amin90" /></p>
-<br>
+```yaml
+name:        Al Amin Parvaje
+location:    Bangladesh 🇧🇩
+roles:       [ Full Stack Developer, Team Lead ]
+focus:       Building & shipping real products — Web
+mindset:     "Code. Manage. Deliver."
+open_to:     Full-stack roles · Team Lead · Freelance & collaboration
+```
 
-<p align="center"> <a href="https://github.com/al-amin90/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-amin90&row=1&column=6&theme=onedark" alt="al-amin90" /></a> </p>
+I build **scalable full-stack applications** and **lead team end-to-end** — from
+idea and planning to deployment and delivery. As a developer I care about clean,
+pixel-perfect UI/UX; as a team lead I solved issues, track projects 
+on scope, and on time.
 
-<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<img style="height: 200px; width: auto;" align="right" alt="" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br/>
 
-- 🌱 I’m currently exploring **NestJS**
+<!-- ════════════════════ WHAT I DO ════════════════════ -->
 
-- 💬 Talk with me about **React, Node, TypeScript, Next.js, Freelancing Opportunities etc.**
+## &nbsp;`02` &nbsp;What I Do
 
-- 📫 How to reach me **ijesun30@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1TGd0jAVYkjqDw9ePyqMWrqpVefnq4XCy/view?usp=drivesdk)
+### 💻 As a Developer
+Full-stack engineering across the modern web stack.
 
+- Scalable apps with **React, Next.js & TypeScript**
+- Robust APIs with **Node.js, Express & Prisma**
+- Data layers in **PostgreSQL & MongoDB**
+- Pixel-perfect **UI/UX** design & implementation
+- Exploring **AI-powered** features & systems
 
-<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left">  
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-<a href="https://twitter.com/al_amin62964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="al_amin62964" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/al-amin-parvaz100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/al-amin-parvaz100" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22900423/jesun-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22900423/jesun-islam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alaminparvaz.jesun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alaminparvaz.jesun/" height="30" width="40" /></a>
-</p>
+### 📋 As a Team Lead
+Leading **web** projects from start to finish.
 
-<h2>Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- End-to-end **project planning & delivery**
+- Scope, timelines & milestone tracking
+- Cross-functional **team coordination**
+- Client communication & requirement mapping
+- Shipping products that actually launch
 
+</td>
+</tr>
+</table>
 
+<br/>
 
-<h2>My github & langueage Stats :computer:</h2>  
+<!-- ════════════════════ TECH STACK ════════════════════ -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SayemTaher&show_icons=true&theme=tokyonight" alt="al-amin90" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-amin90&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="al-amin90" /></p>
+## &nbsp;`03` &nbsp;Tech Stack
 
 
 <br/>
-<h2>My codeing time Stats </h2> 
+<h3 align="left">🖥️ Frontend</h3> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,html,css" />
+</div>
+<br/>
+<h3 align="left">🛠️ Backend</h3> 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,firebase,jwt" />
+</div>
+<br/>
+<h3 align="left">🧰 Tools & Platforms</h3> 
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,figma,xd,ai,ae,ps,vite" />
+</div>
+<br/>
+
+<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+
+## &nbsp;`04` &nbsp;GitHub Analytics
+
+
+<h3 align="center">A Passionate Developer</h3>
+<div align="center">
+   <a><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=al-amin90&theme=radical" alt="GitHub Streak" /></a>
+</div>
+
+<br/>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=al-amin90&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true" width="98%" alt="activity graph"/>
+
+</div>
+
+
+
+<!-- ════════════════════ My Time ════════════════════ -->
+
+## &nbsp;`05` &nbsp;GitHub Analytics
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@al_amin90&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!-- ════════════════════ CONNECT ════════════════════ -->
+
+## &nbsp;`06` &nbsp;Let's Connect
+
+
+
+ <a href="mailto:ijesun30@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="46" alt="gmail"/> </a>&nbsp;&nbsp;
+ <a href="https://linkedin.com/in/www.linkedin.com/in/al-amin-parvaz100" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="46" alt="linkedin"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22900423/jesun-islam" target="blank"><img  src="https://skillicons.dev/icons?i=stackoverflow" alt="https://www.facebook.com/alaminparvaz.jesun/"  width="46" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/https://www.facebook.com/alaminparvaz.jesun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al amin" height="30" width="40" /></a>
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=c0caf5&fontSize=18&fontAlignY=72" width="100%" alt="footer"/>
+<sub>⭐ If my work resonates with you, a star means a lot — it genuinely keeps me building.</sub>
+
+</div> 
+
 
 
 
