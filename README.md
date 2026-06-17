@@ -1,6 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║   NAHIDUL ISLAM SIAM · Full Stack Developer & Project Manager  ║
+  ║   Al Amin Parvaje· Full Stack Developer & Team Lead  ║
   ║   Profile README — Tokyo Night theme                          ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
