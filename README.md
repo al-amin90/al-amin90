@@ -1,8 +1,47 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║   NAHIDUL ISLAM SIAM · Full Stack Developer & Project Manager  ║
+  ║   Profile README — Tokyo Night theme                          ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
- 
- 
-<img width="100%" src="https://i.ibb.co/zHxD0pq/banner-github.png" alt="cover" />
+
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=220&section=header&text=Al%20Amin%20Parvaje&fontColor=c0caf5&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Team%20Lead&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+
+<!-- ░░░ TYPING TAGLINE ░░░ -->
+<a href="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Building+real+web+%26+app+solutions+from+Bangladesh;Code.+Manage.+Deliver.;Full+Stack+Developer+%7C+Project+Manager;Web+%E2%80%A2+Apps+%E2%80%A2+AI+%E2%80%94+managed+end-to-end" alt="tagline"/>
+</a>
+
+<br/>
+
+<!-- ░░░ QUICK LINKS ░░░ -->
+<a href="https://github.com/al-amin90">
+  <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7&labelColor=1a1b26" alt="portfolio"/>
+</a>
+<a href="https://drive.google.com/file/d/1TGd0jAVYkjqDw9ePyqMWrqpVefnq4XCy/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=9ece6a&labelColor=1a1b26" alt="resume"/>
+</a>
+<a href="mailto:ijesun30@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&labelColor=1a1b26" alt="email"/>
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/al-amin-parvaz100">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7dcfff&labelColor=1a1b26" alt="linkedin"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=al-amin90&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/al-amin90?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="followers"/>
+
 </div>
+
+<br/>
+
+
 
 <!-- ════════════════════ ABOUT ════════════════════ -->
 
