@@ -12,7 +12,7 @@
 
 <!-- ░░░ TYPING TAGLINE ░░░ -->
 <a href="">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Building+real+web+%26+app+solutions+from+Bangladesh;Code.+Manage.+Deliver.;Full+Stack+Developer+%7C+Project+Manager;Web+%E2%80%A2+Apps+%E2%80%A2+AI+%E2%80%94+managed+end-to-end" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Building+real+web+%26+app+solutions+from+Bangladesh;Code.+Manage.+Deliver.;Full+Stack+Developer+%7C+Team+Lead;Web+%E2%80%A2+Apps+%E2%80%A2+AI+%E2%80%94+managed+end-to-end" alt="tagline"/>
 </a>
 
 <br/>
