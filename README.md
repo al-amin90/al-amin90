@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ░░░ QUICK LINKS ░░░ -->
-<a href="https://github.com/al-amin90">
+<a href="https://alaminparvaje.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7aa2f7&labelColor=1a1b26" alt="portfolio"/>
 </a>
 <a href="https://drive.google.com/file/d/1TGd0jAVYkjqDw9ePyqMWrqpVefnq4XCy/view?usp=drivesdk">
